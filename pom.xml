@@ -3,14 +3,14 @@
   <groupId>com.demo.app</groupId>
   <artifactId>divya</artifactId>
   <packaging>war</packaging>
-  <version>0.0.1</version>
+  <version>0.0.2-SNAPSHOT</version>
   <name>divya Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <scm>
    <connection>scm:git:git@github.com:breddyprasad/divya.git</connection>
     <developerConnection>scm:git:git@github.com:breddyprasad/divya.git</developerConnection>
     <url>scm:git:git@github.com:breddyprasad/divya.git</url>
-  <tag>divya-0.0.1</tag>
+  <tag>HEAD</tag>
   </scm>
 
 <distributionManagement>
